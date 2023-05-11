@@ -4,6 +4,8 @@ import ListContacts from './ListContacts'
 import CreateContact from './CreateContact'
 import * as ContactsAPI from './utils/ContactsAPI'
 
+// hello
+
 class App extends Component {
   state = {
     contacts: []
